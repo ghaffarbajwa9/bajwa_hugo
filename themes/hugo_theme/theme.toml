@@ -5,13 +5,13 @@ name = "Hugo_theme"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = ""
-homepage = "https://github.com/ghaffarbajwa9/hugo_site"
+homepage = "https://github.com/ghaffarbajwa9/bajwa_hugo"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
   name = "Abdul Ghaffar"
-  homepage = "https://github.com/ghaffarbajwa9/hugo_site"
+  homepage = "https://github.com/ghaffarbajwa9/bajwa_hugo"
 
 

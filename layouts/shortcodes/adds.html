@@ -1,10 +1,16 @@
-{{ range $.Page.Params.Adds }}
-  {{ $null := 0}}
-  {{$image_url:= .image_url }}
-  {{$len_img := len $image_url}}
-  {{ if (gt $len_img $null ) }}
-      <figure class="figure">
-        <amp-img class="figure_image" src="{{.image_url}}" width="1" height="1" layout="responsive"></amp-img>
-      </figure>
-  {{ end }}
-{{ end }}
+<div class="amp-ad-container">
+  <amp-ad width="300" height="250"
+                      type="a9"
+                      data-aax_size="300x250"
+                      data-aax_pubname="test123"
+                      data-aax_src="302">
+    {{ range $.Page.Params.Adds }}
+      {{ $null := 0}}
+      {{$image_url:= .image_url }}
+      {{$len_img := len $image_url}}
+          <figure class="figure">
+            <amp-img class="figure_image" src="{{.image_url}}" width="300" height="250" layout="responsive"></amp-img>
+          </figure>
+    {{ end }}
+  </amp-ad>
+</div>

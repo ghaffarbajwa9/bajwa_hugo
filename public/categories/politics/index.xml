@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Politics on My New Hugo Site</title>
-    <link>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/politics/</link>
-    <description>Recent content in Politics on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 03:01:12 +0500</lastBuildDate>
-    
-	<atom:link href="https://ghaffarbajwa9.github.io/bajwa_hugo/categories/politics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Second post</title>
-      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/posts/second-post/</link>
-      <pubDate>Fri, 01 Mar 2019 03:01:12 +0500</pubDate>
-      
-      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/posts/second-post/</guid>
-      <description>Pakistan released IAF pilot, caught yesterday. this is second post. Related ArticlesThese articles might be interesting for you as well:
-Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
-    </item>
-    
-  </channel>
-</rss>

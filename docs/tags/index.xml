@@ -39,4 +39,29 @@
     </item>
     
   </channel>
+</rss>Each image has a different caption.This caption is different.The third image has its caption.An interactive chart - in AMP!Related ArticlesThese articles might be interesting for you as well:
+Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
+    </item>
+    
+    <item>
+      <title>page by mutafaf</title>
+      <link>/abc/</link>
+      <pubDate>Sat, 02 Mar 2019 18:20:42 +0500</pubDate>
+      
+      <guid>/abc/</guid>
+      <description>Related ArticlesThese articles might be interesting for you as well:
+Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>/posts/third/</link>
+      <pubDate>Fri, 01 Mar 2019 14:36:24 +0500</pubDate>
+      
+      <guid>/posts/third/</guid>
+      <description>this is content of third post&amp;hellip;.. in this i want to show that Pakistan army is the best army in the world. There is none of second for theme. Related ArticlesThese articles might be interesting for you as well:
+Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
+    </item>
+    
+  </channel>
 </rss>
