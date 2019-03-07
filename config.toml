@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ghaffarbajwa9.github.io/bajwa_hugo/"
 themesDir = "themes"
 languageCode = "en-us"
 title = "My New Hugo Site"
