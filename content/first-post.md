@@ -21,7 +21,6 @@ carousel: [{
 }]
 
 ---
-
 {{<social-sharing>}}
 Lorem ipsum dolor sit amet, voluptua oporteat cum cu, eu vix interesset scribentur. Et iudico efficiendi duo, vim an odio iusto reformidans. At maluisset scripserit duo, cum in sumo delenit. Quot erant maiestatis usu ut. Ne mea maiorum vivendum argumentum, tale utinam postea mei in, eam in odio dicta patrioque.
 
