@@ -1,6 +1,5 @@
 baseURL = "/"
 themesDir = "themes"
-publishDir = "docs"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
