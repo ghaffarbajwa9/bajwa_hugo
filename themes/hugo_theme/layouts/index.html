@@ -1,0 +1,8 @@
+{{ partial "header.html" .}}
+{{ range .Site.RegularPages }}
+  <div class="index-list box-shadow margin-top">
+    <a class="index-link" href="{{ .Permalink }}">{{ .Title }}</a>
+  </div>
+  <br>
+{{ end }}
+{{ partial "footer.html" . }}

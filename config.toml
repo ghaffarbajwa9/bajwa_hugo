@@ -1,0 +1,44 @@
+baseURL = "/"
+themesDir = "themes"
+publishDir = "docs"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme = "hugo_theme"
+
+[author]
+  name= "Abdul Ghaffar"
+
+[params]
+  name = "Abdul Ghaffar"
+  description = "This is my new hugo site"
+  bio = "I am a web developer"
+  enableRSS = true
+
+  [params.publisher]
+    name= "bajwa softs"
+
+    [params.publisher.logo]
+      url= ""
+      width= 127
+      height= 40
+
+  [params.logo]
+    url= ""
+    width= 127
+    height= 40
+
+  [params.image]
+    url= ""
+    width= 1
+    height= 600
+
+  [params.thumbnail]
+    url = ""
+    width = 80
+    height = 80
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

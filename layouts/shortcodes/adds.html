@@ -1,0 +1,10 @@
+{{ range $.Page.Params.Adds }}
+  {{ $null := 0}}
+  {{$image_url:= .image_url }}
+  {{$len_img := len $image_url}}
+  {{ if (gt $len_img $null ) }}
+      <figure class="figure">
+        <amp-img class="figure_image" src="{{.image_url}}" width="1" height="1" layout="responsive"></amp-img>
+      </figure>
+  {{ end }}
+{{ end }}

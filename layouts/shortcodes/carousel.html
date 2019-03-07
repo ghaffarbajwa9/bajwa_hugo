@@ -1,0 +1,21 @@
+{{ range $.Page.Params.Carousel }}
+  {{ $null := 0}}
+  {{$image_url:= .image_url1}}
+  {{$len_img := len $image_url}}
+  {{ if (gt $len_img $null ) }}
+      <amp-carousel width="1280" height="1000" layout="responsive" type="slides">
+        <figure class="figure">
+          <amp-img src="{{.image_url1}}" width="1280" height="857" layout="responsive"></amp-img>
+          <figcaption>Each image has a different caption.</figcaption>
+        </figure>
+        <figure class="figure">
+          <amp-img src="{{.image_url2}}" width="1280" height="853" layout="responsive"></amp-img>
+          <figcaption>This caption is different.</figcaption>
+        </figure>
+        <figure class="figure">
+          <amp-img src="{{.image_url3}}" width="1280" height="853" layout="responsive"></amp-img>
+          <figcaption>The third image has its caption.</figcaption>
+        </figure>
+      </amp-carousel>
+  {{ end }}
+{{ end }}

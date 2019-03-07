@@ -1,0 +1,7 @@
+<h2>Related Articles</h2>
+ <p>These articles might be interesting for you as well:</p>
+{{ range .Site.Data.related }}
+<div class="index-list box-shadow">
+  <a class="related" href="{{ .url }}"><amp-img src="{{ .thumbnail }}" width="101" height="75" alt=""></amp-img><span>{{ .title }}</span></a>
+</div>
+{{ end }}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 23:52:12 +0500</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/categories/</link>
+      <pubDate>Tue, 05 Mar 2019 23:52:12 +0500</pubDate>
+      
+      <guid>/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>/categories/politics/</link>
+      <pubDate>Fri, 01 Mar 2019 03:01:12 +0500</pubDate>
+      
+      <guid>/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>/categories/sports/</link>
+      <pubDate>Fri, 01 Mar 2019 03:00:46 +0500</pubDate>
+      
+      <guid>/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
