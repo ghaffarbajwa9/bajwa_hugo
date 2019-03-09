@@ -10,7 +10,7 @@
     "test": "mocha test",
     "dev": "lite-server",
     "db": "json-server --watch db.json --port 3005",
-    "start": "concurrently -k \"npm run dev\" \"npm run db\"",
+    "start": "npm run watch",
     "build-js": "mkdir -p dist/js && uglifyjs src/js/*.js -m -o dist/js/app.js",
     "lint": "jshint src/**.js",
     "sass": "node-sass --include-path scss scss/main.scss assets/main.css",
@@ -24,8 +24,7 @@
     "js:watch": "watchify static-src/assets/src-js/index.js -o static/assets/js/bundle.js",
     "build": "npm run css:build && npm run js:build",
     "prewatch": "npm run build",
-    "watch": "parallelshell 'npm run css:watch' 'npm run js:watch'",
-    "start": "npm run watch"
+    "watch": "parallelshell 'npm run css:watch' 'npm run js:watch'"
   },
   "repository": {
     "type": "git",
