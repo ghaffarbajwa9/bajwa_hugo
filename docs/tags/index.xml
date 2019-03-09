@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>/tags/</link>
+    <link>https://ghaffarbajwa9.github.io/bajwa_hugo/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 03:00:46 +0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghaffarbajwa9.github.io/bajwa_hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cricketmatch</title>
-      <link>/tags/cricketmatch/</link>
+      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/tags/cricketmatch/</link>
       <pubDate>Fri, 01 Mar 2019 03:00:46 +0500</pubDate>
       
-      <guid>/tags/cricketmatch/</guid>
+      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/tags/cricketmatch/</guid>
       <description></description>
     </item>
     
