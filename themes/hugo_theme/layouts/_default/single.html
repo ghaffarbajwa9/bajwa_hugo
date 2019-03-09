@@ -2,9 +2,10 @@
 <div class="container">
   <div class="responsive">
   <h1> {{ .Title }}</h1>
-</div>
-<p>{{.Summary}}</p>
-<p>By: {{ .Params.Author }}<br>{{ .Params.date }}</p>
-<p>{{ .Content }}</p>
+  </div>
+  <p>{{.Summary}}</p>
+  <p>By: {{ .Params.Author }}<br>{{ .Params.date }}</p>
+  {{partial "social_sharing"}}
+  <p>{{ .Content }}</p>
 </div>
 {{ partial "footer.html" .}}

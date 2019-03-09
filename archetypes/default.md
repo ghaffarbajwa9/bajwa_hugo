@@ -21,7 +21,6 @@ carousel: [{
 }]
 
 ---
-{{<social-sharing>}}
 {{<image>}}
 {{<adds>}}
 {{<carousel>}}

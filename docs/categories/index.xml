@@ -2,65 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 23:52:12 +0500</lastBuildDate>
     
-	<atom:link href="https://ghaffarbajwa9.github.io/bajwa_hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/</link>
-      <pubDate>Tue, 05 Mar 2019 23:52:12 +0500</pubDate>
-      
-      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/politics/</link>
-      <pubDate>Fri, 01 Mar 2019 03:01:12 +0500</pubDate>
-      
-      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/politics/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Sports</title>
-      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/sports/</link>
+      <link>/categories/sports/</link>
       <pubDate>Fri, 01 Mar 2019 03:00:46 +0500</pubDate>
       
-      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/categories/sports/</guid>
+      <guid>/categories/sports/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>is different.The third image has its caption.An interactive chart - in AMP!Related ArticlesThese articles might be interesting for you as well:
-Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
-    </item>
-    
-    <item>
-      <title>page by mutafaf</title>
-      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/abc/</link>
-      <pubDate>Sat, 02 Mar 2019 18:20:42 +0500</pubDate>
-      
-      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/abc/</guid>
-      <description>Related ArticlesThese articles might be interesting for you as well:
-Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
-    </item>
-    
-    <item>
-      <title>Third</title>
-      <link>https://ghaffarbajwa9.github.io/bajwa_hugo/posts/third/</link>
-      <pubDate>Fri, 01 Mar 2019 14:36:24 +0500</pubDate>
-      
-      <guid>https://ghaffarbajwa9.github.io/bajwa_hugo/posts/third/</guid>
-      <description>this is content of third post&amp;hellip;.. in this i want to show that Pakistan army is the best army in the world. There is none of second for theme. Related ArticlesThese articles might be interesting for you as well:
-Shopping websites with AMPThe tastiest recipes with AMPNews Articles with AMP</description>
     </item>
     
   </channel>
